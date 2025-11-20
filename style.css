@@ -1,0 +1,13 @@
+img{
+    height: 120px;
+    scale: 1;
+}
+
+body{
+    text-align: center;
+}
+
+ul{
+  display: inline-block;
+  text-align: left;
+}
